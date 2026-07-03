@@ -8,14 +8,14 @@ The application runs completely on your local machine without requiring any clou
 
 # Features
 
-- 📄 Upload PDF documents
-- 🤖 Ask questions about the uploaded document
-- 🔍 Retrieves relevant document sections using ChromaDB
-- 🧠 Generates answers using Ollama (llama3.2:3b)
-- 📚 Displays the retrieved source context
-- 💬 Chat-style interface
-- ⚡ Runs completely offline
-- 🔄 Automatically updates the vector database when a new PDF is uploaded
+-  Upload PDF documents
+-  Ask questions about the uploaded document
+-  Retrieves relevant document sections using ChromaDB
+-  Generates answers using Ollama (llama3.2:3b)
+-  Displays the retrieved source context
+-  Chat-style interface
+-  Runs completely offline
+-  Automatically updates the vector database when a new PDF is uploaded
 
 ---
 
